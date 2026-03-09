@@ -1,0 +1,20 @@
+# Java build
+**/classes/
+**/*.class
+**/*.jar
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
+*.tmp
+*.swp
+
+# Hadoop local temp (neu co)
+tmp/
+temp/
